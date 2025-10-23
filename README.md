@@ -19,6 +19,10 @@ The application loads a pre-trained text classification model (`basic_classifier
 
 ---
 
+![API Latency Boxplot](screenshots/latency_boxplot.png)
+
+---
+
 ## 🧪 Example Usage
 
 **Request:**
@@ -27,4 +31,3 @@ curl -X POST http://pra5-ml-api-env.eba-mvu2cj2p.us-east-2.elasticbeanstalk.com/
   -H "Content-Type: application/json" \
   -d '{"text": "This is fake news"}'
 
-![API Latency Boxplot](screenshots/latency_boxplot.png)
