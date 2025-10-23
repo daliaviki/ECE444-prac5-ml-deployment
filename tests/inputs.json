@@ -1,0 +1,8 @@
+{
+  "cases": [
+    {"name": "fake1", "text": "Aliens took over the UN."},
+    {"name": "fake2", "text": "Cure for aging discovered by grape diet."},
+    {"name": "real1", "text": "Canada announces new carbon tax policy."},
+    {"name": "real2", "text": "NASA successfully launches Artemis mission."}
+  ]
+}

@@ -1,0 +1,8 @@
+Flask>=2.3
+gunicorn
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+requests
